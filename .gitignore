@@ -1,0 +1,13 @@
+venv
+# created by virtualenv automatically
+venv/
+
+__pycache__/
+
+# Large model/data files
+
+*.pkl
+
+*.csv
+
+*.zip
